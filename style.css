@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'popL';   
+    src: url('Poppins-Medium.ttf')
+}
+@font-face {
+    font-family: 'popR';   
+    src: url('Poppins-SemiBold.ttf')
+}
+@font-face {
+    font-family: 'popB';   
+    src: url('Poppins-ExtraBold.ttf')
+}
+@font-face {
+    font-family: 'popBL';   
+    src: url('Poppins-Black.ttf')
+}
+
